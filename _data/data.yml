@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Χρυσούλα Γουρνάρα
@@ -37,7 +37,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Εκπαιδευτική Εμπειρία
+    title: ΕΚΠΑΙΔΕΥΤΙΚΗ ΕΜΠΕΙΡΙΑ
     summary: |
           Σχολικο Έτος 2002-2003 φροντιστήριο ΓΝΩΣΗ 
           Σχολικο Έτος 2003-2004 ΛΥΚΕΙΟ ΔΕΜΕΝΙΚΩΝ (Πρόσθετη Διδακτική Στήριξη) 
@@ -51,14 +51,7 @@ education:
       university: Πανεπιστήμιο Πατρών
       time: 1990-1995
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        
 
 
 experiences:
@@ -66,7 +59,7 @@ experiences:
       time: 1998 - Σήμερα
       company: Εφορεία Αρχαιοτήτων Αχαΐας
       details: |
-        Διοικητικές και οικονομικές διεργασίες της Εφορείας. Άριστη γνώση του MS Office. Χρησιμοποιώ το MS Office καθώς και Internet καθημερινά στην εργασία μου. (Ηλεκτρονικό Πρωτόκολλο, Αναρτήσεις σε Διαύγεια και Κεντρικό Ηλεκτρονικό Μητρώο Δημοσίων Συμβάσεων και λοιπές διαδικτυακές εφαρμογές) adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Διοικητικές και οικονομικές διεργασίες της Εφορείας. Άριστη γνώση του MS Office. Χρησιμοποιώ το MS Office καθώς και Internet καθημερινά στην εργασία μου. (Ηλεκτρονικό Πρωτόκολλο, Αναρτήσεις σε Διαύγεια και Κεντρικό Ηλεκτρονικό Μητρώο Δημοσίων Συμβάσεων και λοιπές διαδικτυακές εφαρμογές)
         
    
 footer: >
