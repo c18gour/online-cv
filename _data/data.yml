@@ -38,10 +38,14 @@ sidebar:
         link:
 
 career-profile:
-    title: Καθηγήτρια Μαθηματικών
+    title: Εκπαιδευτική Εμπειρία
     summary: |
-          Σχολικο έτος 2002-2003 φροντιστήριο ΓΝΩΣΗ, 
-          Σχολικο έτος 2003-2004 ΛΥΚΕΙΟ ΔΕΜΕΝΙΚΩΝ (Πρόσθετη Διδακτική Στήριξη), Σχολικό Έτος 2004-2005 6ο ΛΥΚΕΙΟ ΠΑΤΡΩΝ
+          Σχολικο Έτος 2002-2003 φροντιστήριο ΓΝΩΣΗ 
+          Σχολικο Έτος 2003-2004 ΛΥΚΕΙΟ ΔΕΜΕΝΙΚΩΝ (Πρόσθετη Διδακτική Στήριξη) 
+          Σχολικό Έτος 2004-2005 6ο ΛΥΚΕΙΟ ΠΑΤΡΩΝ & 1ο ΤΕΕ ΠΑΤΡΩΝ (Πρόσθετη Διδακτική Στήριξη)
+          Σχολικό Έτος 2005-2006 1ο ΤΕΕ ΠΑΤΡΏΝ & 3ο ΤΕΕ ΠΑΤΡΩΝ (Πρόσθετη Διδακτική Στήριξη)
+          Σχολικό Έτος 2006-2007 1ο ΤΕΕ ΠΑΤΡΩΝ & 3ο ΤΕΕ ΠΑΤΡΩΝ (Πρόσθετη Διδακτική Στήριξη)
+          
 
 education:
     - degree: Σχολή Θετικών Επιστημών - Τμήμα Μαθηματικών
@@ -59,9 +63,9 @@ education:
 
 
 experiences:
-    - role: Lead Develop
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Π.Ε. Υπάλληλος Διοικητικού Οικονομικού
+      time: 1998 - Σήμερα
+      company: Εφορεία Αρχαιοτήτων Αχαΐας
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -75,32 +79,6 @@ experiences:
 
           - Bullet point
           - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
