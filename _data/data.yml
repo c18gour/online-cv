@@ -14,12 +14,8 @@ sidebar:
     # Sidebar links
     email: c18gour@ionio.gr
     phone: +30 6974272324
-    website: github.com/c18gour
     linkedin: alandoe
     github: xrys@
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
 
     languages:
       - idiom: Ελληνικά
@@ -32,19 +28,20 @@ sidebar:
         level: Καλή Γνώση
         
     interests:
-      - item: Climbing
+      - item: Μέλος του τζαζ φωνητικού σχήματος VOCAL
         link:
 
-      - item: Snowboarding
+      - item: Κινηματογράφος, Θέατρο
         link:
 
-      - item: Cooking
+      - item: Πεζοπορία, Ταξίδια, Φωτογραφία
         link:
 
 career-profile:
     title: Καθηγήτρια Μαθηματικών
     summary: |
-          Σχολικο έτος 2002-2003 φροντιστήριο ΓΝΩΣΗ, Σχολικο έτος 2003-2004 ΛΥΚΕΙΟ ΔΕΜΕΝΙΚΩΝ (Πρόσθετη Διδακτική Στήριξη), Σχολικό Έτος 2004-2005 6ο ΛΥΚΕΙΟ ΠΑΤΡΩΝ
+          Σχολικο έτος 2002-2003 φροντιστήριο ΓΝΩΣΗ, 
+          Σχολικο έτος 2003-2004 ΛΥΚΕΙΟ ΔΕΜΕΝΙΚΩΝ (Πρόσθετη Διδακτική Στήριξη), Σχολικό Έτος 2004-2005 6ο ΛΥΚΕΙΟ ΠΑΤΡΩΝ
 
 education:
     - degree: Σχολή Θετικών Επιστημών - Τμήμα Μαθηματικών
